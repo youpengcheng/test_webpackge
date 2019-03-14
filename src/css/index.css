@@ -1,0 +1,10 @@
+body{
+  background-color: yellow;
+  color: red;
+}
+
+.img{
+    background-image: url(../images/photo.jpeg);
+    width:466px;
+    height:453px;
+}
